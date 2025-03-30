@@ -13,3 +13,5 @@ Conditional Logic & Data Handling: Used logic to analanalyse weather conditions 
 User Experience Enhancements: Ensured smooth navigation, responsiveness, and an engaging user experience.
 
 Future Improvements: Generate images via Unsplash API, and enable options for users to save their clothes weekly.
+
+By Aditya Ranjan
